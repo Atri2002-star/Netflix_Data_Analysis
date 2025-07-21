@@ -1,6 +1,6 @@
 #Netflix_Data_Analysis
 
-This data analysis project involves performing exploratory data analysis (EDA) on a dataset of 9,000+ movies and shows on Netflix to uncover actionable insights that could help guide business decisions. Using Python and key data science libraries, we clean, process, and analyze the dataset to answer business-critical questions.
+This data analysis project involves performing exploratory data analysis (EDA) on a dataset of 9,000+ movies and shows on Netflix to uncover actionable insights that could help guide business decisions. Used Python and key data science libraries to  clean, process, and analyze the dataset to answer business-critical questions.
 
 Questions:
 
